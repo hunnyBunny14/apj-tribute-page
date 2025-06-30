@@ -15,7 +15,7 @@ This project honors the life, achievements, and vision of **Dr. A.P.J. Abdul Kal
 ---
 
 ### 📸 Preview  
-![Preview](preview.png)
+![Preview](Myproject.png)
 
 ---
 
